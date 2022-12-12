@@ -60,7 +60,6 @@
 						key-positions = <17 18>;
 						bindings = <&kp RGUI>;
 	 };
-    };
 };
     
     
@@ -117,5 +116,4 @@ tri_layer {
 					 & trans &trans &trans  					&trans &trans &trans
 		>;
 		};
-        };
 };
